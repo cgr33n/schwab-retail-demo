@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "how-index-funds-work",
+    "title": "How index funds work",
+    "level": "Beginner",
+    "minutes": 6,
+    "blurb": "They are the default choice for most investors, and the mechanics are simpler than you might think.",
+    "sections": [
+      { "heading": "What an index fund actually owns", "body": "An index fund holds every security in a benchmark, like the S&P 500, in proportion to its market weight. Instead of hiring analysts to pick winners, the fund simply buys the whole market. That is why expense ratios for index funds are often ten times lower than actively managed alternatives." },
+      { "heading": "Why costs matter so much", "body": "Fees come out of your return every single year, in good markets and bad. A fund charging 0.03% versus one charging 1% does not sound like much, but over 30 years the cheaper fund can leave you with 25% more money. Compounding works on your returns, and fees are a permanent drag on those returns." },
+      { "heading": "Common misconceptions", "body": "Index funds are not guaranteed to go up, they hold exactly what the market holds, so they fall in downturns too. They are also not one product: some track U.S. stocks, others track bonds or international markets. The fund you pick determines what risks you take." }
+    ]
+  },
+  {
+    "slug": "compound-interest-explained",
+    "title": "Compound interest, explained",
+    "level": "Beginner",
+    "minutes": 5,
+    "blurb": "The most important financial concept is also the easiest to underestimate.",
+    "sections": [
+      { "heading": "The snowball effect", "body": "Compounding means earning returns on your returns. In year one you earn interest on your deposits. In year two you earn interest on your deposits plus last year's interest. Left alone, the growth curve bends upward over time." },
+      { "heading": "Why time beats amount", "body": "An investor who saves $200 a month from age 25 to 35 and then stops can end up with more at 65 than someone who saves $200 a month from 35 to 65. The extra decade in the market does more work than thirty additional years of contributions." },
+      { "heading": "The same math, in reverse", "body": "Compounding also applies to debt and fees. A credit card balance at 24% APR doubles roughly every three years if unpaid. The force that builds portfolios slowly destroys the ones carrying expensive debt, so pay high-rate debt first." }
+    ]
+  },
+  {
+    "slug": "emergency-fund-basics",
+    "title": "Emergency fund basics",
+    "level": "Beginner",
+    "minutes": 4,
+    "blurb": "Before you invest, build a cushion. How much you need depends on how steady your income is.",
+    "sections": [
+      { "heading": "How much is enough", "body": "The usual guidance is three to six months of essential expenses in cash. If your income is variable or you are the household's sole earner, lean toward six months or more. Essentials means housing, food, insurance, and minimum debt payments, not your full budget." },
+      { "heading": "Where to keep it", "body": "Emergency savings need to be liquid and boring: a high-yield savings account, not stocks or crypto. You are not trying to grow this money, you are making sure it is there on your worst day. Online savings accounts currently pay meaningfully more than big-bank branch accounts." },
+      { "heading": "When to spend it", "body": "Use the fund for genuine emergencies: job loss, medical bills, urgent home or car repairs. A vacation or a phone upgrade is not an emergency. If you do dip in, pause investing contributions until the cushion is restored." }
+    ]
+  },
+  {
+    "slug": "understanding-apy-and-apr",
+    "title": "Understanding APY and APR",
+    "level": "Beginner",
+    "minutes": 4,
+    "blurb": "Two similar-looking acronyms, and banks pick whichever makes their product look better.",
+    "sections": [
+      { "heading": "APR: the cost of borrowing", "body": "Annual percentage rate is the yearly cost of a loan, including some fees, expressed as a percentage. It does not usually include the effect of compounding within the year. When you see APR, think cost of debt." },
+      { "heading": "APY: the reward for saving", "body": "Annual percentage yield is what you earn on a deposit account with compounding folded in. A 4.15% interest rate compounded monthly displays as a 4.23% APY. When you see APY, think actual earnings on savings." },
+      { "heading": "Comparing products fairly", "body": "The trap is comparing APR on a loan with APY on a savings account, or comparing two loans where one quotes APR and the other APY. Always compare like with like, and check the compounding frequency before moving your money." }
+    ]
+  },
+  {
+    "slug": "reading-your-monthly-statement",
+    "title": "Reading your monthly statement",
+    "level": "Beginner",
+    "minutes": 5,
+    "blurb": "A guided tour of the sections you actually want to read.",
+    "sections": [
+      { "heading": "Balances and flows", "body": "Every statement starts the same way: beginning balance, plus deposits, minus withdrawals, plus interest and dividends, equals the ending balance. Run that arithmetic yourself once, it takes two minutes and catches most statement errors." },
+      { "heading": "The transaction detail", "body": "Scan for charges you do not recognize, especially small recurring ones. Merchants often bill under names that look nothing like the store you visited. Circle anything unfamiliar and check it against your receipts or your card app." },
+      { "heading": "Fees and fine print", "body": "Look for monthly service fees, overdraft fees, or foreign transaction fees you did not expect. Most can be waived or avoided once you know the trigger, such as a minimum balance or a direct deposit requirement." }
+    ]
+  },
+  {
+    "slug": "dollar-cost-averaging",
+    "title": "Dollar-cost averaging",
+    "level": "Intermediate",
+    "minutes": 6,
+    "blurb": "Investing a fixed amount on a schedule removes the worst decision from the process: when.",
+    "sections": [
+      { "heading": "The mechanics", "body": "Dollar-cost averaging means investing a fixed dollar amount on a regular schedule, regardless of price. When prices are high your fixed amount buys fewer shares, when prices dip it buys more. Over time you pay close to the average price instead of betting everything on one entry point." },
+      { "heading": "Why it works in practice", "body": "Most investors who try to time the market buy high and sell low, because fear peaks exactly when prices are down. Automating contributions removes the emotional decision. The discipline matters more than the schedule: weekly versus monthly barely changes long-run outcomes." },
+      { "heading": "The lump-sum debate", "body": "Statistically, investing a windfall all at once beats spreading it out about two thirds of the time, because markets rise more often than they fall. If a lump sum keeps you up at night, averaging in over three to six months is a reasonable compromise, and keeping new savings automated is what matters most." }
+    ]
+  },
+  {
+    "slug": "roth-vs-traditional-ira",
+    "title": "Roth vs. Traditional IRA",
+    "level": "Intermediate",
+    "minutes": 8,
+    "blurb": "The choice comes down to one question: do you expect to pay a higher tax rate now or in retirement?",
+    "sections": [
+      { "heading": "The core tradeoff", "body": "Traditional IRA contributions are tax-deductible today and taxed at withdrawal in retirement. Roth contributions are made with after-tax dollars and grow tax-free. Both shelter dividends and capital gains from taxes while the money stays invested." },
+      { "heading": "A rule of thumb", "body": "If you are early in your career with a lower income, the Roth tends to win, since your tax rate today is likely lower than it will be later. If you are at peak earnings, the Traditional deduction is worth more now. Many investors end up with a mix of both, which also hedges against future tax-law changes." },
+      { "heading": "Watch the limits", "body": "Contribution limits apply across all IRAs combined, not per account. High earners may be phased out of deducting Traditional contributions or contributing directly to a Roth. Withdrawal rules also differ: Roth earnings must generally age five years to come out tax-free." }
+    ]
+  },
+  {
+    "slug": "asset-allocation-basics",
+    "title": "Asset allocation basics",
+    "level": "Intermediate",
+    "minutes": 7,
+    "blurb": "Your mix of stocks, bonds, and cash will drive your results more than any single investment you pick.",
+    "sections": [
+      { "heading": "Why allocation dominates", "body": "Studies of portfolio variance consistently find that asset allocation, the split between asset classes, explains far more of a portfolio's long-run behavior than the specific funds chosen. A stock fund versus another stock fund is a rounding error, 80% stocks versus 40% stocks is a different portfolio." },
+      { "heading": "Setting your split", "body": "The classic rule of thumb, subtract your age from 110 to get a stock percentage, is only a starting point. Your time horizon and your tolerance for watching balances fall both matter. The right allocation is one you can hold through a 30% drawdown without selling." },
+      { "heading": "Rebalancing", "body": "Over time, winners drift the allocation away from target. Rebalancing, selling a bit of what grew and buying what lagged, restores the risk level you intended. Once a year, or when an allocation drifts more than five points, is plenty for most long-term investors." }
+    ]
+  }
+]

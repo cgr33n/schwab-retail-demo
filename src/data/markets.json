@@ -1,0 +1,21 @@
+{
+  "indices": [
+    { "symbol": "SPX", "name": "S&P 500", "prevClose": 6118.42 },
+    { "symbol": "NDX", "name": "Nasdaq Composite", "prevClose": 20118.36 },
+    { "symbol": "DJI", "name": "Dow Jones Industrial Average", "prevClose": 44910.65 },
+    { "symbol": "RUT", "name": "Russell 2000", "prevClose": 2308.11 },
+    { "symbol": "VIX", "name": "CBOE Volatility Index", "prevClose": 14.82 }
+  ],
+  "sectors": [
+    { "sector": "Technology", "dayPct": 1.24 },
+    { "sector": "Communication Services", "dayPct": 0.86 },
+    { "sector": "Financials", "dayPct": 0.41 },
+    { "sector": "Industrials", "dayPct": 0.53 },
+    { "sector": "Utilities", "dayPct": 0.29 },
+    { "sector": "Consumer Discretionary", "dayPct": 0.18 },
+    { "sector": "Health Care", "dayPct": -0.22 },
+    { "sector": "Consumer Staples", "dayPct": -0.35 },
+    { "sector": "Real Estate", "dayPct": -0.61 },
+    { "sector": "Energy", "dayPct": -1.12 }
+  ]
+}

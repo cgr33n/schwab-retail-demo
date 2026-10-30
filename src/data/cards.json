@@ -1,0 +1,28 @@
+[
+  {
+    "id": "card_backup",
+    "accountId": "acct_checking",
+    "label": "Backup Card",
+    "last4": "8813",
+    "number": "4024 0071 4449 8813",
+    "cvv": "042",
+    "expiry": "07/27",
+    "frozen": false,
+    "dailyLimit": 300,
+    "international": false,
+    "openedOn": "2021-06-02"
+  },
+  {
+    "id": "card_primary",
+    "accountId": "acct_checking",
+    "label": "Schwab Debit Card",
+    "last4": "4921",
+    "number": "4024 0071 6621 4921",
+    "cvv": "881",
+    "expiry": "09/29",
+    "frozen": false,
+    "dailyLimit": 500,
+    "international": true,
+    "openedOn": "2024-02-10"
+  }
+]

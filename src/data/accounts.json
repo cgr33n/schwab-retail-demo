@@ -1,0 +1,45 @@
+[
+  {
+    "id": "acct_brokerage",
+    "name": "Individual Brokerage",
+    "type": "brokerage",
+    "number": "4821",
+    "balance": 47215.32,
+    "cash": 5586.14,
+    "openedOn": "2021-03-14"
+  },
+  {
+    "id": "acct_ira",
+    "name": "Traditional IRA",
+    "type": "ira",
+    "number": "7104",
+    "balance": 24180.09,
+    "cash": 1162.59,
+    "openedOn": "2019-11-02"
+  },
+  {
+    "id": "acct_checking",
+    "name": "Schwab Checking",
+    "type": "checking",
+    "number": "2310",
+    "balance": 13214.47,
+    "openedOn": "2019-11-02"
+  },
+  {
+    "id": "acct_savings",
+    "name": "High-Yield Investor Savings",
+    "type": "savings",
+    "number": "2311",
+    "balance": 21340.88,
+    "apy": 4.25,
+    "openedOn": "2019-11-02"
+  },
+  {
+    "id": "acct_ext_fnb",
+    "name": "First National Bank",
+    "type": "external",
+    "number": "8802",
+    "balance": 0,
+    "openedOn": "2023-06-20"
+  }
+]

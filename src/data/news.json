@@ -1,0 +1,194 @@
+[
+  {
+    "id": "n1",
+    "slug": "stocks-edge-higher-yields-steady",
+    "title": "Stocks edge higher as Treasury yields steady ahead of Fed meeting",
+    "category": "Markets",
+    "source": "Market Wire",
+    "publishedAt": "2026-10-29T16:45:00",
+    "summary": "The S&P 500 posted a modest gain Thursday as investors digested the latest batch of earnings and looked ahead to next week's policy meeting.",
+    "body": [
+      "U.S. equities finished modestly higher on Thursday, with the S&P 500 up 0.3% and the Nasdaq Composite adding 0.5%, as bond yields eased off their morning highs.",
+      "Energy shares lagged after crude inventories came in above expectations, while technology and financials led the advance.",
+      "Attention now shifts to the Federal Reserve's two-day meeting beginning Tuesday. Futures markets are pricing roughly a 60% chance of a quarter-point cut.",
+      "\"The market has been remarkably resilient this month,\" said one strategist. \"The question is whether that holds once the Fed decision is behind us.\""
+    ],
+    "tickers": ["SPX", "NDX"]
+  },
+  {
+    "id": "n2",
+    "slug": "sp500-third-straight-weekly-gain",
+    "title": "S&P 500 notches third straight weekly gain",
+    "category": "Markets",
+    "source": "Global Finance Daily",
+    "publishedAt": "2026-10-30T16:15:00",
+    "summary": "A quiet Friday session was enough to extend the index's winning streak, capping a 1.8% gain for the week.",
+    "body": [
+      "The S&P 500 closed out its third consecutive weekly advance Friday, finishing the week up 1.8%.",
+      "Volume was light ahead of the weekend, and volatility stayed subdued with the VIX holding below 15.",
+      "Broad-market ETFs saw another week of net inflows, extending what has been the strongest stretch of the year for index fund demand.",
+      "Next week brings a full slate of earnings along with the Fed's rate decision and the monthly jobs report."
+    ],
+    "tickers": ["SPX", "VOO"]
+  },
+  {
+    "id": "n3",
+    "slug": "fed-officials-signal-patience",
+    "title": "Fed officials signal patience on rate path as inflation cools",
+    "category": "Economy",
+    "source": "Reuters Demo Wire",
+    "publishedAt": "2026-10-28T11:20:00",
+    "summary": "Several policymakers suggested they see no urgency to move quickly, even as core inflation drifts back toward the 2% target.",
+    "body": [
+      "Federal Reserve officials offered a patient tone in a series of public appearances this week, signaling comfort with the current policy stance.",
+      "Core inflation has cooled for four consecutive months and now sits at 2.3% year over year, close to the central bank's long-run goal.",
+      "\"The last mile of disinflation is behind us; the question now is the neutral rate,\" one governor said at a banking conference.",
+      "Economists still expect one more cut this year, though timing remains split between December and early next year."
+    ],
+    "tickers": []
+  },
+  {
+    "id": "n4",
+    "slug": "jobless-claims-five-month-low",
+    "title": "Jobless claims fall to five-month low, pointing to resilient labor market",
+    "category": "Economy",
+    "source": "Market Wire",
+    "publishedAt": "2026-10-24T08:40:00",
+    "summary": "Initial unemployment claims dropped to 213,000 last week, the lowest reading since May.",
+    "body": [
+      "New applications for unemployment benefits fell to 213,000 last week, a five-month low and the latest sign the labor market remains on solid footing.",
+      "Continuing claims also edged lower, suggesting laid-off workers are finding new roles quickly.",
+      "The report bolsters the soft-landing narrative that has supported equity valuations through the second half of the year.",
+      "Attention turns to next Friday's payrolls report, with consensus looking for a gain of 145,000 jobs."
+    ],
+    "tickers": []
+  },
+  {
+    "id": "n5",
+    "slug": "maxing-out-ira-early",
+    "title": "Why maxing out your IRA contributions early matters",
+    "category": "Retirement",
+    "source": "The Long View",
+    "publishedAt": "2026-10-26T09:00:00",
+    "summary": "Front-loading your annual contribution gives your money more time in the market, and the math is more powerful than most people expect.",
+    "body": [
+      "Most investors wait until tax season to fund their IRA. But contributing in January instead of April gives your money up to 15 extra months of tax-advantaged compounding every year.",
+      "Over a 30-year career, that head start can add tens of thousands of dollars to your balance, purely from the extra time in the market.",
+      "If a lump sum feels out of reach, automatic monthly contributions are a perfectly good alternative and help smooth out market timing.",
+      "Check your contribution limits each year, especially if you turn 50 and become eligible for catch-up contributions."
+    ],
+    "tickers": []
+  },
+  {
+    "id": "n6",
+    "slug": "catch-up-contributions-age-50",
+    "title": "Catch-up contributions: what changes at age 50",
+    "category": "Retirement",
+    "source": "The Long View",
+    "publishedAt": "2026-10-22T10:30:00",
+    "summary": "The year you turn 50 you unlock higher contribution limits across 401(k)s and IRAs. Here is how the numbers stack up.",
+    "body": [
+      "Once you reach age 50, the IRS lets you contribute extra amounts to your retirement accounts under what are known as catch-up provisions.",
+      "For workplace plans, the catch-up can add thousands of dollars a year above the standard employee limit, and older workers within three years of retirement may qualify for even larger amounts.",
+      "The extra room compounds quickly: an additional $7,000 a year invested for 15 years at a 7% return grows to roughly $175,000.",
+      "If cash flow is tight, prioritize any employer match first, then direct raises and bonuses toward the catch-up room."
+    ],
+    "tickers": []
+  },
+  {
+    "id": "n7",
+    "slug": "high-yield-savings-hold-above-4",
+    "title": "High-yield savings rates hold above 4% as banks compete for deposits",
+    "category": "Banking",
+    "source": "Deposit Trends",
+    "publishedAt": "2026-10-27T07:15:00",
+    "summary": "Even as the Fed debates further cuts, the best savings rates have barely budged. Competition for household deposits remains fierce.",
+    "body": [
+      "Top-yielding savings accounts continue to pay north of 4% APY, a level that has held steady for most of the year.",
+      "Analysts attribute the stickiness to banks competing aggressively for household deposits as loan growth picks up.",
+      "For savers, the advice is simple: if your account pays materially less than 4%, it has never been easier to switch.",
+      "Watch for promotional rates that drop after an introductory period, and confirm the rate is variable before parking your emergency fund."
+    ],
+    "tickers": []
+  },
+  {
+    "id": "n8",
+    "slug": "debit-card-skimming-on-the-rise",
+    "title": "Debit card skimming is on the rise: 6 habits that keep you safer",
+    "category": "Banking",
+    "source": "Deposit Trends",
+    "publishedAt": "2026-10-21T12:00:00",
+    "summary": "Skimming devices were up double digits this year. A few simple habits dramatically cut your exposure.",
+    "body": [
+      "Reports of debit card skimming were up double digits in the first half of the year, with gas pumps and standalone ATMs remaining the most common targets.",
+      "Prefer ATMs inside bank branches or well-lit, high-traffic locations, and give the card reader a tug before inserting your card.",
+      "Enable transaction alerts so you learn about fraudulent activity in minutes, not weeks. Turning your card off between purchases takes seconds in most mobile apps.",
+      "If you do spot an unfamiliar charge, freeze the card immediately and report it, unauthorized debit transactions are generally covered when reported promptly."
+    ],
+    "tickers": []
+  },
+  {
+    "id": "n9",
+    "slug": "index-vs-active-fee-drag",
+    "title": "Index funds vs. actively managed funds: the fee drag, visualized",
+    "category": "Investing",
+    "source": "The Long View",
+    "publishedAt": "2026-10-25T14:00:00",
+    "summary": "A one percent fee gap sounds small. Over a 40-year career it quietly consumes a quarter of a portfolio's growth.",
+    "body": [
+      "The average actively managed mutual fund charges roughly 0.6% more per year than a comparable index fund.",
+      "That difference compounds relentlessly. On a $500,000 portfolio earning 7% annually, a 1% fee consumes about $580,000 of potential growth over 30 years.",
+      "Active managers do occasionally beat their benchmarks, but the percentage that does so over 15 years is small and difficult to identify in advance.",
+      "The pragmatic approach for most savers: index the core of the portfolio and, if you want active exposure, cap it at a small slice."
+    ],
+    "tickers": ["SCHB", "SWPPX"]
+  },
+  {
+    "id": "n10",
+    "slug": "dividend-investing-101",
+    "title": "Dividend investing 101: building a paycheck from your portfolio",
+    "category": "Investing",
+    "source": "Market Wire",
+    "publishedAt": "2026-10-23T13:45:00",
+    "summary": "Dividend funds have attracted record flows this year. Here is how payouts actually reach your account.",
+    "body": [
+      "Dividend investing is having a moment: funds focused on dividend payers have seen record inflows over the past twelve months.",
+      "Companies that pay dividends distribute a portion of earnings to shareholders quarterly, and dividend ETFs pass those payouts through after expenses.",
+      "Two numbers matter most: the yield, which tells you the income relative to price today, and the growth rate, which tells you how fast the payout has been rising.",
+      "Reinvested dividends are one of the most reliable compounding engines available to a long-term investor. Payouts can be reduced or suspended, so diversification matters."
+    ],
+    "tickers": ["SCHD"]
+  },
+  {
+    "id": "n11",
+    "slug": "nvidia-leads-chip-rally",
+    "title": "Nvidia leads chip rally as datacenter capex forecasts climb",
+    "category": "Markets",
+    "source": "Global Finance Daily",
+    "publishedAt": "2026-10-29T18:05:00",
+    "summary": "Semiconductor shares jumped after two hyperscalers raised their infrastructure spending guidance.",
+    "body": [
+      "Chip stocks rallied Thursday after a pair of large cloud providers raised their datacenter capital expenditure forecasts for next year.",
+      "Nvidia gained more than 3%, extending its lead as the best-performing mega cap of the year.",
+      "The move lifted the broader semiconductor complex, with equipment makers and memory suppliers also posting strong sessions.",
+      "Skeptics continue to flag the concentration risk, the top five stocks in the S&P 500 now account for nearly 30% of the index weight."
+    ],
+    "tickers": ["NVDA"]
+  },
+  {
+    "id": "n12",
+    "slug": "strong-10-year-auction-demand",
+    "title": "Treasury auction sees strong demand for 10-year notes",
+    "category": "Economy",
+    "source": "Reuters Demo Wire",
+    "publishedAt": "2026-10-30T09:30:00",
+    "summary": "Indirect bids came in well above average, sending yields lower and easing pressure on rate-sensitive sectors.",
+    "body": [
+      "The Treasury's auction of 10-year notes drew strong demand, with indirect bidders taking down the highest share in eight months.",
+      "The yield on the benchmark 10-year slipped to 4.02% in afternoon trading, a two-week low.",
+      "Solid auction results have helped keep long-end volatility in check, even as the Fed deliberates its next move.",
+      "Mortgage rates, which track the 10-year closely, fell back below 6.3% this week, a small relief for prospective homebuyers."
+    ],
+    "tickers": []
+  }
+]

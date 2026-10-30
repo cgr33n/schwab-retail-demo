@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# schwab-retail-demo
 
-## Getting Started
+Sample retail banking & investing website for demo environments. Everything in
+this repo is fictional — it is not affiliated with or endorsed by Charles
+Schwab & Co.
 
-First, run the development server:
+## Running it
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open http://localhost:3000 and sign in with the demo account:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- username: `connor.demo`
+- password: `Demo!2026`
+- security code: any 6 digits
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## What's in it
 
-## Learn More
+- Dashboard with net worth, day change, and a live-ish market snapshot
+- Accounts & positions (brokerage, IRA, checking, savings, linked external bank)
+- Checking & savings overview, transfer scheduling, monthly statements (printable)
+- Debit cards with freeze / spending limits / international toggles
+- Markets, news, a stock & fund screener, and a small learning center
+- A watchlist (work in progress)
 
-To learn more about Next.js, take a look at the following resources:
+## Tests
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm test
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+vitest, unit tests on the lib helpers. Should all be green.
 
-## Deploy on Vercel
+## Notes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- All data lives in memory and resets when the dev server restarts. There's a
+  reset button on `/debug` if a session gets into a weird state.
+- Market data is simulated (a random walk around seeded prices).
+- Market data endpoints are intentionally unauthenticated; everything that
+  touches money or personal data requires a session cookie.

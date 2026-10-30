@@ -1,0 +1,25 @@
+[
+  { "id": "stmt_brkg_202604", "accountId": "acct_brokerage", "month": "2026-04", "beginning": 27876.01, "deposits": 2000.00, "withdrawals": 0, "interest": 0, "dividends": 12.44, "fees": 0, "marketActivity": 1105.30, "ending": 29993.75 },
+  { "id": "stmt_save_202604", "accountId": "acct_savings", "month": "2026-04", "beginning": 17320.22, "deposits": 500.00, "withdrawals": 0, "interest": 74.38, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 17894.60 },
+  { "id": "stmt_chkg_202604", "accountId": "acct_checking", "month": "2026-04", "beginning": 7320.43, "deposits": 5700.00, "withdrawals": -5572.28, "interest": 0, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 7448.15 },
+
+  { "id": "stmt_brkg_202605", "accountId": "acct_brokerage", "month": "2026-05", "beginning": 29993.75, "deposits": 2000.00, "withdrawals": 0, "interest": 0, "dividends": 12.44, "fees": 0, "marketActivity": 420.90, "ending": 32427.09 },
+  { "id": "stmt_save_202605", "accountId": "acct_savings", "month": "2026-05", "beginning": 17894.60, "deposits": 500.00, "withdrawals": 0, "interest": 74.38, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 18468.98 },
+  { "id": "stmt_chkg_202605", "accountId": "acct_checking", "month": "2026-05", "beginning": 7448.15, "deposits": 5700.00, "withdrawals": -5572.28, "interest": 0, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 7575.87 },
+
+  { "id": "stmt_brkg_202606", "accountId": "acct_brokerage", "month": "2026-06", "beginning": 32427.09, "deposits": 2000.00, "withdrawals": 0, "interest": 0, "dividends": 12.44, "fees": 0, "marketActivity": 1876.55, "ending": 37316.08 },
+  { "id": "stmt_save_202606", "accountId": "acct_savings", "month": "2026-06", "beginning": 18468.98, "deposits": 500.00, "withdrawals": 0, "interest": 74.38, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 19043.36 },
+  { "id": "stmt_chkg_202606", "accountId": "acct_checking", "month": "2026-06", "beginning": 7575.87, "deposits": 5700.00, "withdrawals": -5572.28, "interest": 0, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 7703.59 },
+
+  { "id": "stmt_brkg_202607", "accountId": "acct_brokerage", "month": "2026-07", "beginning": 37316.08, "deposits": 2000.00, "withdrawals": 0, "interest": 0, "dividends": 12.44, "fees": 0, "marketActivity": -905.22, "ending": 38423.30 },
+  { "id": "stmt_save_202607", "accountId": "acct_savings", "month": "2026-07", "beginning": 19043.36, "deposits": 500.00, "withdrawals": 0, "interest": 74.38, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 19617.74 },
+  { "id": "stmt_chkg_202607", "accountId": "acct_checking", "month": "2026-07", "beginning": 7703.59, "deposits": 5700.00, "withdrawals": -5572.28, "interest": 0, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 7831.31 },
+
+  { "id": "stmt_brkg_202608", "accountId": "acct_brokerage", "month": "2026-08", "beginning": 38423.30, "deposits": 2000.00, "withdrawals": 0, "interest": 0, "dividends": 12.44, "fees": 0, "marketActivity": 1240.10, "ending": 41675.84 },
+  { "id": "stmt_save_202608", "accountId": "acct_savings", "month": "2026-08", "beginning": 19617.74, "deposits": 500.00, "withdrawals": 0, "interest": 74.38, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 20192.12 },
+  { "id": "stmt_chkg_202608", "accountId": "acct_checking", "month": "2026-08", "beginning": 7831.31, "deposits": 5700.00, "withdrawals": -5572.28, "interest": 0, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 7959.03 },
+
+  { "id": "stmt_brkg_202609", "accountId": "acct_brokerage", "month": "2026-09", "beginning": 41675.84, "deposits": 2000.00, "withdrawals": 0, "interest": 0, "dividends": 12.44, "fees": 0, "marketActivity": 880.50, "ending": 44568.78 },
+  { "id": "stmt_save_202609", "accountId": "acct_savings", "month": "2026-09", "beginning": 20192.12, "deposits": 500.00, "withdrawals": 0, "interest": 74.38, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 20766.50 },
+  { "id": "stmt_chkg_202609", "accountId": "acct_checking", "month": "2026-09", "beginning": 7959.03, "deposits": 10700.00, "withdrawals": -5572.28, "interest": 0, "dividends": 0, "fees": 0, "marketActivity": 0, "ending": 13086.75 }
+]

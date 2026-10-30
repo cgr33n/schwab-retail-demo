@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pos_schb",
+    "accountId": "acct_brokerage",
+    "symbol": "SCHB",
+    "shares": 180,
+    "costBasisPerShare": 36.11
+  },
+  {
+    "id": "pos_schd",
+    "accountId": "acct_brokerage",
+    "symbol": "SCHD",
+    "shares": 95,
+    "costBasisPerShare": 71.02
+  },
+  {
+    "id": "pos_aapl",
+    "accountId": "acct_brokerage",
+    "symbol": "AAPL",
+    "shares": 48,
+    "costBasisPerShare": 172.25
+  },
+  {
+    "id": "pos_nvda",
+    "accountId": "acct_brokerage",
+    "symbol": "NVDA",
+    "shares": 24,
+    "costBasisPerShare": 0
+  },
+  {
+    "id": "pos_msft",
+    "accountId": "acct_brokerage",
+    "symbol": "MSFT",
+    "shares": 10,
+    "costBasisPerShare": 342.80
+  },
+  {
+    "id": "pos_swppx",
+    "accountId": "acct_ira",
+    "symbol": "SWPPX",
+    "shares": 825,
+    "costBasisPerShare": 24.93
+  }
+]
